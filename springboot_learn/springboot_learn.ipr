@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Licensed to the Apache Software Foundation (ASF) under one
+or more contributor license agreements.  See the NOTICE file
+distributed with this work for additional information
+regarding copyright ownership.  The ASF licenses this file
+to you under the Apache License, Version 2.0 (the
+"License"); you may not use this file except in compliance
+with the License.  You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing,
+software distributed under the License is distributed on an
+"AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, either express or implied.  See the License for the
+specific language governing permissions and limitations
+under the License.
+-->
+<project version="4" relativePaths="false"> 
+  <component name="ProjectRootManager" version="2" assert-keyword="true" project-jdk-name="1.8" jdk-15="true"/>  
+  <component name="CodeStyleManager"> 
+    <option name="USE_DEFAULT_CODE_STYLE_SCHEME" value="true"/>  
+    <option name="CODE_STYLE_SCHEME" value=""/> 
+  </component>  
+  <component name="libraryTable"/>  
+  <component name="CompilerConfiguration"> 
+    <option name="DEFAULT_COMPILER" value="Javac"/>  
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false"/>  
+    <!--
+    <wildcardResourcePatterns>
+      <entry name="${wildcardResourcePattern}"/>
+    </wildcardResourcePatterns>
+    -->  
+    <wildcardResourcePatterns>
+      <entry name="!?*.java"/>
+    </wildcardResourcePatterns>
+  </component>  
+  <component name="JavacSettings"> 
+    <option name="DEBUGGING_INFO" value="true"/>  
+    <option name="GENERATE_NO_WARNINGS" value="false"/>  
+    <option name="DEPRECATION" value="true"/>  
+    <option name="ADDITIONAL_OPTIONS_STRING" value=""/>  
+    <option name="MAXIMUM_HEAP_SIZE" value="128"/>  
+    <option name="USE_GENERICS_COMPILER" value="false"/> 
+  </component>  
+  <component name="JikesSettings"> 
+    <option name="DEBUGGING_INFO" value="true"/>  
+    <option name="DEPRECATION" value="true"/>  
+    <option name="GENERATE_NO_WARNINGS" value="false"/>  
+    <option name="GENERATE_MAKE_FILE_DEPENDENCIES" value="false"/>  
+    <option name="DO_FULL_DEPENDENCE_CHECK" value="false"/>  
+    <option name="IS_INCREMENTAL_MODE" value="false"/>  
+    <option name="IS_EMACS_ERRORS_MODE" value="true"/>  
+    <option name="ADDITIONAL_OPTIONS_STRING" value=""/>  
+    <option name="MAXIMUM_HEAP_SIZE" value="128"/> 
+  </component>  
+  <component name="AntConfiguration"> 
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false"/>  
+    <option name="FILTER_TARGETS" value="false"/> 
+  </component>  
+  <component name="JavadocGenerationManager"> 
+    <option name="OUTPUT_DIRECTORY"/>  
+    <option name="OPTION_SCOPE" value="protected"/>  
+    <option name="OPTION_HIERARCHY" value="false"/>  
+    <option name="OPTION_NAVIGATOR" value="false"/>  
+    <option name="OPTION_INDEX" value="false"/>  
+    <option name="OPTION_SEPARATE_INDEX" value="false"/>  
+    <option name="OPTION_USE_1_1" value="false"/>  
+    <option name="OPTION_DOCUMENT_TAG_USE" value="false"/>  
+    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false"/>  
+    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false"/>  
+    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="false"/>  
+    <option name="OPTION_DEPRECATED_LIST" value="false"/>  
+    <option name="OTHER_OPTIONS"/>  
+    <option name="HEAP_SIZE"/>  
+    <option name="OPEN_IN_BROWSER" value="false"/> 
+  </component>  
+  <component name="JUnitProjectSettings"> 
+    <option name="TEST_RUNNER" value="UI"/> 
+  </component>  
+  <component name="EntryPointsManager"> 
+    <entry_points/> 
+  </component>  
+  <component name="DataSourceManager"/>  
+  <component name="ExportToHTMLSettings"> 
+    <option name="PRINT_LINE_NUMBERS" value="false"/>  
+    <option name="OPEN_IN_BROWSER" value="false"/>  
+    <option name="OUTPUT_DIRECTORY"/> 
+  </component>  
+  <component name="ImportConfiguration"> 
+    <option name="VENDOR"/>  
+    <option name="RELEASE_TAG"/>  
+    <option name="LOG_MESSAGE"/>  
+    <option name="CHECKOUT_AFTER_IMPORT" value="true"/> 
+  </component>  
+  <component name="ProjectModuleManager"> 
+    <modules> 
+      <!-- module filepath="$$PROJECT_DIR$$/${pom.artifactId}.iml"/ -->  
+      <module filepath="$PROJECT_DIR$/springboot_learn.iml"/>
+      <module filepath="$PROJECT_DIR$/demo/demo.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_elasticjob/springboot2_elasticjob.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_mongodb/springboot2_mongodb.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_mybatis_cascade/springboot2_mybatis_cascade.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_nacos_config/springboot2_nacos_config.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_nacos_discovery/springboot2_nacos_discovery.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_prometheus/springboot2_prometheus.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_shardingjdbc_dxfl/springboot2_shardingjdbc_dxfl.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_shardingjdbc_fkfb/springboot2_shardingjdbc_fkfb.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_sofa_lookout/springboot2_sofa_lookout.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot2_webflux/springboot2_webflux.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_actuator/springboot_actuator.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_admin_client/springboot_admin_client.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_admin_server/springboot_admin_server.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_aop/springboot_aop.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_banner/springboot_banner.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_cache/springboot_cache.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_cachecontroller/springboot_cachecontroller.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_datasources/springboot_datasources.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_db/springboot_db.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_druid/springboot_druid.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_dubbo_client/springboot_dubbo_client.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_dubbo_server/springboot_dubbo_server.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_elasticsearch/springboot_elasticsearch.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_error/springboot_error.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_freemarker/springboot_freemarker.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_generator/springboot_generator.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_interceptor/springboot_interceptor.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_internationalization/springboot_internationalization.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_jdbc/springboot_jdbc.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_jpa/springboot_jpa.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_jsp/springboot_jsp.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_log4j/springboot_log4j.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_logstash/springboot_logstash.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_lombok/springboot_lombok.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mail/springboot_mail.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mongodb/springboot_mongodb.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mongodb2/springboot_mongodb2.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mybatis/springboot_mybatis.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mybatis_pagehelper/springboot_mybatis_pagehelper.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_mybatisplus/springboot_mybatisplus.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_rabbitmq/springboot_rabbitmq.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_redis/springboot_redis.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_scheduled/springboot_scheduled.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_security/springboot_security.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_shiro/springboot_shiro.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_swagger2/springboot_swagger2.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_thymeleaf/springboot_thymeleaf.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_tomcat/springboot_tomcat.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_transactional/springboot_transactional.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_upload_download/springboot_upload_download.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_validator/springboot_validator.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_web/springboot_web.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_webjars/springboot_webjars.iml"/>
+      <module filepath="$PROJECT_DIR$/springboot_xml/springboot_xml.iml"/>
+    </modules> 
+  </component>  
+  <UsedPathMacros> 
+    <!--<macro name="cargo"></macro>--> 
+  </UsedPathMacros> 
+</project>

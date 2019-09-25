@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot2_graylog" />
+        <module name="springboot_banner" />
+        <module name="springboot2_graylog_log4j" />
+        <module name="springboot_webjars" />
+        <module name="demo" />
+        <module name="springboot_mybatis" />
+        <module name="springboot2_nacos_config" />
+        <module name="springboot_lombok" />
+        <module name="springboot2_sofa_lookout" />
+        <module name="springboot_shiro" />
+        <module name="springboot_dubbo_client" />
+        <module name="springboot_jpa" />
+        <module name="springboot_mail" />
+        <module name="springboot_mongodb2" />
+        <module name="springboot_dubbo_server" />
+        <module name="springboot_transactional" />
+        <module name="springboot_admin_server" />
+        <module name="springboot_cachecontroller" />
+        <module name="springboot_swagger2" />
+        <module name="springboot_generator" />
+        <module name="springboot2_mongodb" />
+        <module name="springboot_logstash" />
+        <module name="springboot_scheduled" />
+        <module name="springboot_datasources" />
+        <module name="springboot2_prometheus" />
+        <module name="springboot_jdbc" />
+        <module name="springboot_admin_client" />
+        <module name="springboot2_jwt" />
+        <module name="springboot2_nacos_discovery" />
+        <module name="springboot_internationalization" />
+        <module name="springboot_error" />
+        <module name="springboot_interceptor" />
+        <module name="springboot_actuator" />
+        <module name="springboot_mybatisplus" />
+        <module name="springboot2_distributed_lock_mysql" />
+        <module name="springboot2_elasticjob" />
+        <module name="springboot_upload_download" />
+        <module name="springboot_mybatis_pagehelper" />
+        <module name="springboot_freemarker" />
+        <module name="springboot_redis" />
+        <module name="springboot_rabbitmq" />
+        <module name="springboot_druid" />
+        <module name="springboot_mongodb" />
+        <module name="springboot2_webflux" />
+        <module name="springboot_web" />
+        <module name="springboot2_mybatis_cascade" />
+        <module name="springboot_tomcat" />
+        <module name="springboot_jsp" />
+        <module name="springboot2_shardingjdbc_dxfl" />
+        <module name="springboot_thymeleaf" />
+        <module name="springboot_aop" />
+        <module name="springboot_security" />
+        <module name="springboot2_shardingjdbc_fkfb" />
+        <module name="springboot_validator" />
+        <module name="springboot_xml" />
+        <module name="springboot_cache" />
+        <module name="springboot_log4j" />
+        <module name="springboot_db" />
+        <module name="springboot_elasticsearch" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="springboot2_appllo" target="1.8" />
+      <module name="springboot2_distributed_lock_mysql" target="1.8" />
+      <module name="springboot2_elasticjob" target="1.8" />
+      <module name="springboot2_graylog" target="1.8" />
+      <module name="springboot2_graylog_log4j" target="1.8" />
+      <module name="springboot2_jwt" target="1.8" />
+      <module name="springboot2_mongodb" target="1.8" />
+      <module name="springboot2_mybatis_cascade" target="1.8" />
+      <module name="springboot2_nacos_config" target="1.8" />
+      <module name="springboot2_nacos_discovery" target="1.8" />
+      <module name="springboot2_prometheus" target="1.8" />
+      <module name="springboot2_sharding-jdbc-fkfb" target="1.8" />
+      <module name="springboot2_shardingjdbc" target="1.8" />
+      <module name="springboot2_shardingjdbc_dxfl" target="1.8" />
+      <module name="springboot2_shardingjdbc_fkfb" target="1.8" />
+      <module name="springboot2_sofa_lookout" target="1.8" />
+      <module name="springboot2_sofalookout" target="1.8" />
+      <module name="springboot2_webflux" target="1.8" />
+      <module name="springboot_actuator" target="1.8" />
+      <module name="springboot_admin_client" target="1.8" />
+      <module name="springboot_admin_server" target="1.8" />
+      <module name="springboot_aop" target="1.8" />
+      <module name="springboot_banner" target="1.8" />
+      <module name="springboot_cache" target="1.8" />
+      <module name="springboot_cachecontroller" target="1.8" />
+      <module name="springboot_datasources" target="1.8" />
+      <module name="springboot_db" target="1.8" />
+      <module name="springboot_docker" target="1.8" />
+      <module name="springboot_druid" target="1.8" />
+      <module name="springboot_dubbo_client" target="1.8" />
+      <module name="springboot_dubbo_server" target="1.8" />
+      <module name="springboot_elasticsearch" target="1.8" />
+      <module name="springboot_error" target="1.8" />
+      <module name="springboot_freemarker" target="1.8" />
+      <module name="springboot_generator" target="1.8" />
+      <module name="springboot_interceptor" target="1.8" />
+      <module name="springboot_internationalization" target="1.8" />
+      <module name="springboot_jdbc" target="1.8" />
+      <module name="springboot_jpa" target="1.8" />
+      <module name="springboot_jsp" target="1.8" />
+      <module name="springboot_learn" target="1.5" />
+      <module name="springboot_log4j" target="1.8" />
+      <module name="springboot_logstash" target="1.8" />
+      <module name="springboot_lombok" target="1.8" />
+      <module name="springboot_mail" target="1.8" />
+      <module name="springboot_mongodb" target="1.8" />
+      <module name="springboot_mongodb2" target="1.8" />
+      <module name="springboot_mybatis" target="1.8" />
+      <module name="springboot_mybatis_pagehelper" target="1.8" />
+      <module name="springboot_mybatisplus" target="1.8" />
+      <module name="springboot_package" target="1.8" />
+      <module name="springboot_rabbitmq" target="1.8" />
+      <module name="springboot_redis" target="1.8" />
+      <module name="springboot_scheduled" target="1.8" />
+      <module name="springboot_security" target="1.8" />
+      <module name="springboot_shiro" target="1.8" />
+      <module name="springboot_swagger2" target="1.8" />
+      <module name="springboot_thymeleaf" target="1.8" />
+      <module name="springboot_tomcat" target="1.8" />
+      <module name="springboot_transactional" target="1.8" />
+      <module name="springboot_upload_download" target="1.8" />
+      <module name="springboot_validator" target="1.8" />
+      <module name="springboot_web" target="1.8" />
+      <module name="springboot_webjars" target="1.8" />
+      <module name="springboot_xml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot2_distributed_lock_mysql" options="-parameters" />
+      <module name="springboot2_elasticjob" options="-parameters" />
+      <module name="springboot2_graylog" options="-parameters" />
+      <module name="springboot2_graylog_log4j" options="-parameters" />
+      <module name="springboot2_jwt" options="-parameters" />
+      <module name="springboot2_mongodb" options="-parameters" />
+      <module name="springboot2_mybatis_cascade" options="-parameters" />
+      <module name="springboot2_nacos_config" options="-parameters" />
+      <module name="springboot2_nacos_discovery" options="-parameters" />
+      <module name="springboot2_prometheus" options="-parameters" />
+      <module name="springboot2_shardingjdbc_dxfl" options="-parameters" />
+      <module name="springboot2_shardingjdbc_fkfb" options="-parameters" />
+      <module name="springboot2_sofa_lookout" options="-parameters" />
+      <module name="springboot2_sofalookout" options="-parameters" />
+      <module name="springboot2_webflux" options="-parameters" />
+      <module name="springboot_aop" options="-parameters" />
+      <module name="springboot_cachecontroller" options="-parameters" />
+      <module name="springboot_docker" options="-parameters" />
+      <module name="springboot_logstash" options="-parameters" />
+      <module name="springboot_mongodb2" options="-parameters" />
+      <module name="springboot_package" options="-parameters -verbose -bootclasspath /Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre\lib\rt.jar;/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre\lib\jce.jar" />
+    </option>
+  </component>
+</project>

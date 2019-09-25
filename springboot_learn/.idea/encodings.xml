@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_distributed_lock_mysql" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_elasticjob" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_graylog" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_graylog_log4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_jwt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_mybatis_cascade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_nacos_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_nacos_discovery" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_prometheus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_shardingjdbc_dxfl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_shardingjdbc_fkfb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_sofa_lookout" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot2_webflux" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_actuator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_admin_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_banner" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_cachecontroller" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_datasources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_dubbo_client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_dubbo_server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_elasticsearch" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_error" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_interceptor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_internationalization" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_jsp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_log4j" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_logstash" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_lombok" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mail" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mongodb2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatis_pagehelper" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_mybatisplus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_rabbitmq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_scheduled" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_swagger2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_thymeleaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_tomcat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_transactional" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_upload_download" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_validator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_webjars" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot_xml" charset="UTF-8" />
+  </component>
+</project>
